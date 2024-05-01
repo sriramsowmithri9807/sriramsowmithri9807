@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sriram66601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sriram66601" height="30" width="40" /></a>
+<a href="https://twitter.com/sowm66601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sowm66601" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sowmithri sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowmithri sriram" height="30" width="40" /></a>
 <a href="https://kaggle.com/sriramsowmithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sriramsowmithri" height="30" width="40" /></a>
 <a href="https://fb.com/sowmithri sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowmithri sriram" height="30" width="40" /></a>
