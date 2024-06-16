@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriramsowmithri9807" alt="sriramsowmithri9807" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sriram82431432" target="blank"><img src="https://img.shields.io/twitter/follow/sriram82431432?logo=twitter&style=for-the-badge" alt="sriram82431432" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/sowm66601" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sowm66601?logo=twitter&style=for-the-badge" alt="https://x.com/sowm66601" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sriramlnk.my.canva.site/](https://sriramlnk.my.canva.site/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sowm66601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sowm66601" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/sowm66601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sowm66601" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sowmithri sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowmithri sriram" height="30" width="40" /></a>
 <a href="https://kaggle.com/sriramsowmithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sriramsowmithri" height="30" width="40" /></a>
 <a href="https://fb.com/sowmithri sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowmithri sriram" height="30" width="40" /></a>
